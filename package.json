@@ -1,0 +1,19 @@
+{
+  "name": "ticketsale",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Manish Giri",
+  "license": "ISC",
+  "dependencies": {
+    "ganache-cli": "^6.12.2",
+    "solc": "^0.8.17",
+    "web3": "^1.0.0-beta.26"
+  },
+  "devDependencies": {
+    "mocha": "^10.7.3"
+  }
+}
